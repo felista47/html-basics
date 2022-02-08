@@ -1,0 +1,41 @@
+body {
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+#mainheader {
+    background-color: cornflowerblue;
+}
+
+nav {
+    height: 60px;
+    width: 1000px;
+    margin: 0 auto 20px;
+}
+
+#leftmenu {
+    float: left;
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+.searchbox {
+    padding: 5px;
+    margin: 10px 10px;
+    width: 200px;
+}
+
+#main {
+    float: right;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+#footer {
+    clear: both;
+    width: 100%;
+}
